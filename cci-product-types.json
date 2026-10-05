@@ -1,0 +1,40 @@
+[
+  {
+    "id": "cali",
+    "label": "Cali 🇺🇸🇳🇱",
+    "keywords": [
+      "cali",
+      "cali 🇺🇸🇳🇱"
+    ]
+  },
+  {
+    "id": "dry",
+    "label": "Dry 🇲🇦🇺🇸",
+    "keywords": [
+      "dry",
+      "dry 🇲🇦🇺🇸"
+    ]
+  },
+  {
+    "id": "mousseux",
+    "label": "Mousseux 🇲🇦🇺🇸",
+    "keywords": [
+      "mouss",
+      "mousseux 🇲🇦🇺🇸"
+    ]
+  },
+  {
+    "id": "shop",
+    "label": "Shop 🇳🇱",
+    "keywords": [
+      "shop",
+      "shop 🇳🇱"
+    ]
+  },
+  {
+    "id": "exclusif",
+    "label": "Produits exclusifs 🇲🇦🇳🇱🇺🇸",
+    "keywords": [],
+    "adminOnly": true
+  }
+]
