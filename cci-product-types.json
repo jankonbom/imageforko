@@ -17,10 +17,11 @@
   },
   {
     "id": "mousseux",
-    "label": "Mousseux 🇲🇦🇺🇸",
+    "label": "Mousseux 🇲🇦🇪🇸",
     "keywords": [
       "mouss",
-      "mousseux 🇲🇦🇺🇸"
+      "mousseux 🇲🇦🇺🇸",
+      "mousseux 🇲🇦🇪🇸"
     ]
   },
   {
@@ -33,7 +34,7 @@
   },
   {
     "id": "exclusif",
-    "label": "Produits exclusifs 🇲🇦🇳🇱🇺🇸",
+    "label": "Produits exclusifs 🥇🏆🇺🇸",
     "keywords": [],
     "adminOnly": true
   }
